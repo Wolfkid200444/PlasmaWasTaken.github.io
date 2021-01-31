@@ -8,6 +8,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
   margin: 31px 0 0;
 }
 
@@ -22,5 +23,6 @@
 
   .u-section-1 .u-text-2 {
     margin-right: 0;
+    animation-duration: 1000ms;
   }
 }
